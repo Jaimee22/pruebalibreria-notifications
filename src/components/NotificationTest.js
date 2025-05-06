@@ -1,6 +1,7 @@
 import React from 'react';
-import { showToast } from 'jrt-notifications/src/toast';
-import { showModal } from 'jrt-notifications/src/modal';
+import { showToast } from 'jrt-notifications';
+import { showModal } from 'jrt-notifications';
+import 'jrt-notifications/dist/styles.css';
 // import '../../node_modules/jrt-notifications/src/styles/toast.css';
 // import '../../node_modules/jrt-notifications/src/styles/modal.css';
 
